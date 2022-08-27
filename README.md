@@ -6,7 +6,7 @@ HERRAMIENTA DE PHISHING PARÁ TERMUX/LINUX (CUALQUIER DISTRIBUCIÓN)
 PRIMERO DESCARGAR EL ARCHIVO DESDE ESTE LINK:
 
 
-https://www.mediafire.com/file/k3nc8bneukbhx0w/ArPhish.zip/file
+https://www.mediafire.com/file/vn6bkngynd9bx3b/ArPhish.zip/file
 
 
 DESPUÉS: 
