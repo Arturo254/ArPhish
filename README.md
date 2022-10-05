@@ -1,6 +1,10 @@
 # ArPhish
 HERRAMIENTA DE PHISHING PARÁ TERMUX/LINUX (CUALQUIER DISTRIBUCIÓN)
 
+<p align="centre">
+<img src="https://i.ibb.co/MCyfryn/Picsart-22-10-05-16-59-19-444.png" alt="Script">
+</p>
+
 # INSTRUCCIONES DE INSTALACIÓN
 
 PRIMERO DESCARGAR EL ARCHIVO DESDE ESTE LINK:
