@@ -1,4 +1,4 @@
-# ArPhish
+# ArPhish v2 BETA
 HERRAMIENTA DE PHISHING PARÁ TERMUX/LINUX (CUALQUIER DISTRIBUCIÓN)
 
 <p align="centre">
