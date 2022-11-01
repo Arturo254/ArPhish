@@ -21,6 +21,10 @@ mv /data/data/com.termux/files/home/storage/downloads/ArPhish.zip //data/data/co
 
 Y LUEGO 
 
+mkdir Arphish 
+
+mv $HOME/Arphish.zip $HOME/Arphish
+
 unzip ArPhish.zip 
 
 DESPUÉS:
