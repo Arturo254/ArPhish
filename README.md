@@ -14,15 +14,14 @@ https://www.fireload.com/ebd18fe4b0ce83be/ArPhish.zip
 
 
 
-```
-mv /data/data/com.termux/files/home/storage/downloads/ArPhish.zip //data/data/com.termux/files/home 
+``` 
 
 
+cd $HOME 
 
+mkdir ArPhish
 
-mkdir Arphish 
-
-mv $HOME/Arphish.zip $HOME/Arphish
+mv /data/data/com.termux/files/home/storage/downloads/ArPhish.zip //data/data/com.termux/files/home/ArPhish
 
 unzip ArPhish.zip 
 
