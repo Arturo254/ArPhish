@@ -24,13 +24,30 @@ cd ArPhish
 
 unzip ArPhish.zip 
 
-mv ArPhish/* $PWD/
+
 
 
 chmod 777 *
 
 bash arphish.sh
 
+``` 
+# LINUX 
+
+``` 
+cd 
+
+mkdir ArPhish 
+
+mv Downloads/ArPhish.zip
+
+$HOME/ArPhish 
+
+cd ArPhish 
+
+chmod 777 * 
+
+bash arphish.sh 
 ```
 
 ### PRE REQUISITOS :
