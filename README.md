@@ -57,9 +57,13 @@ bash arphish.sh
 <li> bash 
 <li> lolcat </li>
 
-Dev's ꨥ 's : 
+# ꨥ
+
+Dev's  : 
 
 
  [![Github](https://i.imgur.com/9I6NRUm.png)](https://github.com/Ximena254) Ximena (my girlfriend)
+ 
+ 
 [![Github](https://i.imgur.com/9I6NRUm.png)](https://github.com/Arturo254)  Arturo (lead developer)
 
