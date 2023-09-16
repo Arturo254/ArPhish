@@ -30,6 +30,9 @@ bash install.sh
 
 ```
 
+![92shots_so](https://github.com/Arturo254/ArPhish/assets/87346871/74e49bee-ca4e-4983-bd3d-2378111b194b)
+
+
 ### En el caso de linux es el mismo procedimiento solo ejecutar el install.sh como sudo 
 
 # ꨥ
